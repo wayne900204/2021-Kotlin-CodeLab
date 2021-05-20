@@ -3,3 +3,5 @@
 - A Dice App
 - A Tip App
 - A Tip App
+- Word App
+- Correct App
